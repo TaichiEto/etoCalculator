@@ -4,5 +4,5 @@ You can do easlity with the program.
 
 # Usage
 ```
-$ python main.py
+$ python3 main.py
 ```
